@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customization
+title: Настройка под себя
 nav_order: 6
 ---
 
