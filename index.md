@@ -1,6 +1,7 @@
 ---
 title: Начало всего
 layout: home
+nav_order: 1
 ---
 Документация *by default* и можно *[customize]* настраивать все!
 
