@@ -1,15 +1,15 @@
 ---
-title: Home
+title: Начало всего
 layout: home
 ---
-Jekyll builds this Just the Docs theme docs website using the theme itself. These web pages show how your web pages will look *by default* when you use this theme. But you can easily *[customize]* the theme to make them look completely different!
+Документация *by default* и можно *[customize]* настраивать все!
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Если [Jekyll] установлен, можно собирать *Локально*. Это может дать преимущество по времени и не надо ждать пока документ соберется.[^1] 
 
-More specifically, the created site:
+Можно делать следующими способами:
 
-- uses a 
-- uses the 
+- вот так
+- и вот так 
 
 ----
 
