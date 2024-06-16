@@ -4,10 +4,10 @@ title: Настройка под себя
 nav_order: 6
 ---
 
-# Customization
+# Как это все настраивать
 {: .no_toc }
 
-## Table of contents
+## Содержание
 {: .no_toc .text-delta }
 
 1. TOC
